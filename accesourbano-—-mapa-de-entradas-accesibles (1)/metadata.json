@@ -1,0 +1,6 @@
+{
+  "name": "AccesoUrbano — Mapa de Entradas Accesibles",
+  "description": "Registro georreferenciado de entradas con rampa y con escalones sobre OpenStreetMap con exportación directa a Google Maps y conexión a Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
